@@ -1,0 +1,29 @@
+{
+  "repo": "kernelsu-android-system-manager",
+  "product": "KernelSU Android System Manager",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "kernelsu-android-system-manager",
+    "kernelsu-android-system-manager-desktop",
+    "kernelsu-android-system-manager-release",
+    "kernelsu-android-system-manager-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "KernelSU Android System Manager"
+}
